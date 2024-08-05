@@ -1,6 +1,6 @@
 # Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography
 
-Official PyTorch implementation of **PSDM**, the CVPR 2023 paper "[Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography](https://arxiv.org/abs/2405.14770)". Code modified from [Diffusion-MBIR](https://github.com/HJ-harry/DiffusionMBIR).
+Official PyTorch implementation of **PSDM**, "[Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography](https://arxiv.org/abs/2405.14770)". Code modified from [Diffusion-MBIR](https://github.com/HJ-harry/DiffusionMBIR).
 
 
 ## Getting started
