@@ -2,10 +2,6 @@
 
 Official PyTorch implementation of **PSDM**, the CVPR 2023 paper "[Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography](https://arxiv.org/abs/2405.14770)". Code modified from [Diffusion-MBIR](https://github.com/HJ-harry/DiffusionMBIR).
 
-[![arXiv](https://img.shields.io/badge/arXiv-2211.10655-green)](https://arxiv.org/abs/2211.10655)
-[![arXiv](https://img.shields.io/badge/paper-CVPR2023-blue)](https://arxiv.org/abs/2211.10655)
-![concept](./figs/forward_model.jpg)
-![concept](./figs/cover_result.jpg)
 
 ## Getting started
 
