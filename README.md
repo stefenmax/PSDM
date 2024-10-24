@@ -12,7 +12,7 @@ python = 3.7
 torch = 1.13.1
 scipy = 1.7.3
 astra-toolbox
-ODL
+Operator Discretization Library (ODL)
 sporco,tqdm, ninja,ml_collections
 ```
 
