@@ -36,10 +36,10 @@ You can modify the training config with the ```--config``` flag.
 If you find our work interesting, please consider citing
 
 ```
-@InProceedings{chung2023solving,
-  title={Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models},
-  author={Chung, Hyungjin and Ryu, Dohoon and McCann, Michael T and Klasky, Marc L and Ye, Jong Chul},
-  journal={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2023}
+@article{han2024physics,
+  title={Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography},
+  author={Han, Shuo and Xu, Yongshun and Wang, Dayang and Morovati, Bahareh and Zhou, Li and Maltz, Jonathan S and Wang, Ge and Yu, Hengyong},
+  journal={arXiv preprint arXiv:2405.14770},
+  year={2024}
 }
 ```
