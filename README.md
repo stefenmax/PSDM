@@ -1,7 +1,7 @@
 # Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography
 
 Official PyTorch implementation of **PSDM**, "[Physics-informed Score-based Diffusion Model for Limited-angle Reconstruction of Cardiac Computed Tomography](https://arxiv.org/abs/2405.14770)". Code modified from [Diffusion-MBIR](https://github.com/HJ-harry/DiffusionMBIR).
-This is just for the simulation purpose. THe code for real experiment will update soon~
+This is just for the simulation purpose. The code for real experiment will update soon~
 
 ## Getting started
 
@@ -20,9 +20,8 @@ sporco,tqdm, ninja,ml_collections
 Once you have the pre-trained weights and the test data set up properly, you may run the following scripts. Modify the parameters in the python scripts directly to change experimental settings.
 
 ```bash
-conda activate diffusion-mbir
-python inverse_problem_solver_AAPM_3d_total.py
-python inverse_problem_solver_BRATS_MRI_3d_total.py
+conda activate your_conda
+python imnverse_me.py
 ```
 
 ## Training
